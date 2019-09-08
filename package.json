@@ -1,0 +1,11 @@
+{
+  "name": "desafio-b2w",
+  "version": "1.0.0",
+  "description": "Get product data by scrapping an html response",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rainyer Santiago",
+  "license": "ISC"
+}
