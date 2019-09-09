@@ -1,4 +1,13 @@
-# Cheerio web scrapping
+# Cheerio web scraping
+
+### What is this project ?
+This project code allows you to grab some especific data about Americanas.com products. You can simply call the ```getProduct``` function passing the product page url like in the example below:
+
+```
+  const getProduct = require('./product-scraping')
+  getProduct('https://www.americanas.com.br/produto/26904402')
+```
+
 
 ### How to run this project
 
